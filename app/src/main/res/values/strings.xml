@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MPlayer</string>
+    <string name="shareAppLink">https://play.google.com/store/apps/details?id=</string>
+    <string name="titleShareby">share by</string>
+    <string name="image_of_song_logo">Image of song logo</string>
+    <string name="song_name_textView">TextView</string>
+    <string name="shuffle_songs">shuffle songs</string>
+    <string name="previous_song">previous song</string>
+    <string name="play_pause_button">play pause button</string>
+    <string name="next_song_button">next song button</string>
+    <string name="repeat_current_song_button">repeat current song button</string>
+    <string name="_00_00">00:00</string>
+    <string name="unknown_artist">Unknown artist</string>
+    <string name="partition">partition</string>
+    <string name="search_icon">search</string>
+    <string name="share_app">share</string>
+    <string name="rate_this_app">Rate this app</string>
+    <string name="share_song">share</string>
+    <string name="artist_name_text_view">Unknown</string>
+    <string name="oops">Oops</string>
+    <string name="no_song_available_text_view">It seems you don\'t have any downloaded or mp3 songs.</string>
+    <string name="refresh_btn">Refresh</string>
+    <string name="text_view_permission_denied">You just denied the permission.This app requires permission to function</string>
+    <string name="btn_allow">Allow</string>
+    <string name="dialog_close_text_view">Close</string>
+    <string name="list_of_songs_content_description">list of songs</string>
+    <string name="back_button_image">back button image</string>
+    <string name="share_icon">share icon</string>
+</resources>
